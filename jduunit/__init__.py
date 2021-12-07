@@ -1,1 +1,1 @@
-import jduunit
+from jduunit import unittest as unittest2
