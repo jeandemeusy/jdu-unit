@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="jduunit",
-    version="0.1.2",
+    version="0.1.3",
     scripts=["bin/jduunit"],
     author="Jean Demeusy",
     author_email="dev.jdu@gmail.com",
