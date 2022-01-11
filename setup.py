@@ -13,7 +13,7 @@ setuptools.setup(
     description="A simple unittesting package.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/jeandemeusy/jdu_unit",
+    url="https://github.com/jeandemeusy/jdu-unit",
     packages=["jduunit"],
     classifiers=[
         "Programming Language :: Python :: 3",
